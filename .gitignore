@@ -1,0 +1,5 @@
+webdriver/*
+node_modules/*
+.idea/*
+coverage/*
+*.csv
