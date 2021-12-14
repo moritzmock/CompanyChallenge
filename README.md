@@ -1,7 +1,7 @@
 # Company Challenge
 
-Automatically generated test cases for web pages using Selenium and JavaScript to verify that all URLs used are usable.
-
+Automatically generated test cases for web pages
+using Selenium and JavaScript to verify that all URLs are usable.
 ## Table of content
 
 - [Usage](#usage)
@@ -71,10 +71,6 @@ lecture Advanced Software Design Techniques with the professor
 Eduardo Martins Guerra at the Free University of Bolzano. 
 The project was implemented for the company
 [Catch Solve](https://www.catch-solve.tech/en/home).
-
-### Credits
-
-- [All Contributors](../../contributors)
 
 ### License
 
