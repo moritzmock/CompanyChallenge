@@ -1,11 +1,12 @@
 # Company Challenge
 
+Automatically generated test cases for web pages using Selenium and JavaScript to verify that all URLs used are usable.
+
 ## Table of content
 
 - [Usage](#usage)
-- [Contribute](#contribute)
-    - [Learn more](#learn-more)
-    - [Development](#development)
+- [Learn more](#learn-more)
+- [Development](#development)
 - [Information](#information)
 
 ## Usage

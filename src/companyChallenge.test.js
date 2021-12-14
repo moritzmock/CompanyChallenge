@@ -1,9 +1,10 @@
 import importProperties from "./propertiesImport.js";
 import {getURLs, verifyURLs} from "./companyChallenge.js";
+import settings from "../settings/settings.json"
 
 //this can be adjusted manually, however it only affects this file and not the others
 //default value from jest is 5000ms
-jest.setTimeout(50000)
+jest.setTimeout(settings.jestTimeout)
 
 describe("testing the setup", () => {
 
