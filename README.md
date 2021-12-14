@@ -1,1 +1,80 @@
-# CompanyChallenge
+# Company Challenge
+
+## Table of content
+
+- [Usage](#usage)
+- [Contribute](#contribute)
+    - [Learn more](#learn-more)
+    - [Development](#development)
+- [Information](#information)
+
+## Usage
+
+### Prerequisites
+
+- [NPM](https://www.npmjs.com)
+
+### Setup
+
+Install all dependencies by executing the following command:
+
+```bash
+npm ci
+```
+
+By adding webpages of interest modify the file "websites.properties".
+
+Next, you can start the application:
+
+```bash
+npm start
+
+or 
+
+npm run testCC
+```
+
+The project will load all URL and crawl the URLs in use based on the defines settings file (settings/HTMLTags.properties).
+
+The second command will generate testcases based on the file "websites.properties".
+
+## Learn more
+
+To learn more about Selenium, take a look at the following resource:
+
+- [Selenium](https://www.selenium.dev/)
+
+
+## Development
+
+For linting the source files, execute the following command:
+
+```bash
+npm run lint
+
+# or
+
+npm run lint:fix
+```
+
+For running the tests, execute the following command:
+
+```bash
+npm run testSetup
+```
+
+## Information
+
+This repository is the outcome of the company challenge of the
+lecture Advanced Software Design Techniques with the professor 
+Eduardo Martins Guerra at the Free University of Bolzano. 
+The project was implemented for the company
+[Catch Solve](https://www.catch-solve.tech/en/home).
+
+### Credits
+
+- [All Contributors](../../contributors)
+
+### License
+
+The MIT License (MIT). Please see the [license file](license.md) for more information.
