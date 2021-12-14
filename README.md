@@ -14,6 +14,7 @@ using Selenium and JavaScript to verify that all URLs are usable.
 ### Prerequisites
 
 - [NPM](https://www.npmjs.com)
+- [WebDriver](https://www.selenium.dev/documentation/webdriver/)
 
 ### Setup
 
