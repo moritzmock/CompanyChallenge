@@ -6,7 +6,7 @@ import settings from "../settings/settings.json"
 //default value from jest is 5000ms
 jest.setTimeout(settings.jestTimeout)
 
-describe("testing the setup", () => {
+describe("testing CC", () => {
 
     const file = "websites.properties"
     const data = importProperties(file);
